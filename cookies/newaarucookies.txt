@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1732086825	GPS	1
+.youtube.com	TRUE	/	TRUE	0	YSC	8nn_uD6bmIo
+.youtube.com	TRUE	/	FALSE	1732085062	ST-xw5vc0	csn=DxksEaPMpaShjqS7&itct=CJIBEPxaGAEiEwjpkLjSp-qJAxWCUZ0JHUL5ARwyBnNlYXJjaFIKcm93ZHkgYm95c5oBAxD0JA%3D%3D
+.youtube.com	TRUE	/	FALSE	1732085070	ST-rqeq1v	csn=bE_qA9AGD1Zq2_zp&itct=CJsBEPxaGAAiEwi7ve7Wp-qJAxXiUp0JHfFKBaIyBnNlYXJjaFIKcm93ZHkgYmFieZoBAxD0JA%3D%3D
+.youtube.com	TRUE	/	FALSE	1732085071	ST-zy8sw9	csn=bE_qA9AGD1Zq2_zp&itct=CJoBEPxaGAEiEwi7ve7Wp-qJAxXiUp0JHfFKBaIyBnNlYXJjaFIKcm93ZHkgYmFieZoBAxD0JA%3D%3D
+.youtube.com	TRUE	/	FALSE	1732085082	ST-n9kqdr	csn=ygpzCnLR72OfPHuC&itct=CLYBEOqeBBgBIhMIzdqL2KfqiQMVE1cPAh2HgzeI
+.youtube.com	TRUE	/	FALSE	1732085116	ST-1tod46a	csn=ygpzCnLR72OfPHuC&itct=CKUBEPxaGAAiEwjN2ovYp-qJAxUTVw8CHYeDN4gyB3JlbGF0ZWRImqeb2-zcgKXJAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732085118	ST-1b3sktz	csn=ygpzCnLR72OfPHuC&itct=CI0BEPxaGAAiEwjN2ovYp-qJAxUTVw8CHYeDN4gyB3JlbGF0ZWRImqeb2-zcgKXJAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732085123	ST-18janw0	csn=ygpzCnLR72OfPHuC&itct=CIwBEPxaGAEiEwjN2ovYp-qJAxUTVw8CHYeDN4gyB3JlbGF0ZWRImqeb2-zcgKXJAZoBBQgBEPgd
+.youtube.com	TRUE	/	TRUE	1747637191	VISITOR_INFO1_LIVE	wyo2B1v44zM
+.youtube.com	TRUE	/	TRUE	1747637191	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgNQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1732085201	ST-ioagqo	csn=Yu2-M1KK1LR_gwWb&itct=CFIQh_YEGAAiEwiM7K-UqOqJAxUleJ0JHepPE1taD0ZFd2hhdF90b193YXRjaJoBBQgkEI4e
+.youtube.com	TRUE	/	FALSE	1732085203	ST-dbqos4	csn=Yu2-M1KK1LR_gwWb&itct=CEEQ_FoiEwiM7K-UqOqJAxUleJ0JHepPE1syCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
+.youtube.com	TRUE	/	TRUE	1766645196	PREF	f6=40000000&tz=Asia.Kolkata&f7=100

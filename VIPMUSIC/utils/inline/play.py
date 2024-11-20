@@ -444,10 +444,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="✰sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/FRIENDSCHATTINGZONEOFFICIAL"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="ᴜᴘᴅᴀᴛᴇ✰", url=f"https://t.me/+afuAoqlXTyhjN2I1"
             ),
         ],
         [

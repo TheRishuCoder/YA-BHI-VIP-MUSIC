@@ -44,7 +44,7 @@ DURATION_LIMIT_MIN = int(
 
 EXTRA_PLUGINS = getenv(
     "EXTRA_PLUGINS",
-    "True",
+    "false",
 )
 
 # Fill True if you want to load extra plugins
@@ -108,14 +108,14 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/VIP_CREATORS"
+    "SUPPORT_CHANNEL", "https://t.me/+afuAoqlXTyhjN2I1"
 )  # Example:- https://t.me/VIP_CREATORS
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TG_FRIENDSS"
+    "SUPPORT_GROUP", "https://t.me/FRIENDSCHATTINGZONEOFFICIAL"
 )  # Example:- https://t.me/TG_FRIENDSS
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/TG_FRIENDSS"
+    "SUPPORT_GROUP", "https://t.me/FRIENDSCHATTINGZONEOFFICIAL"
 )  # Example:- https://t.me/TG_FRIENDSS
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -211,7 +211,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://graph.org/file/5b9490a8a099f03174b3b.jpg",
 )
 
 PING_IMG_URL = getenv(
